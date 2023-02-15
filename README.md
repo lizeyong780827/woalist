@@ -1,4 +1,4 @@
-# woalist-replit
+# alist-replit
 
 The fastest way to deploy the alist to `repl.it` is to click the `run on repl.it` button below.
 
